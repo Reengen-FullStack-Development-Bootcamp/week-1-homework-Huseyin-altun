@@ -1,0 +1,91 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Adidabas",
+        "category": "Spor Ayakabısı",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quis erat vel risus accumsan dignissim ullamcorper quis ",
+        "star": "3.5",
+        "sizeOfPrice": [
+          { "id": 1, "size": 29, "price": 150 },
+          { "id": 2, "size": 30, "price": 189},
+          { "id": 3, "size": 31, "price": 258 },
+          { "id": 4, "size": 32, "price": 310 },
+          { "id": 5, "size": 33, "price": 500 }
+        ],
+        "selectedPriceId": 1,
+        "piece": 1,
+        "color":"pink",
+        "imageUrl":"https://cdn.discordapp.com/attachments/897079486246445063/899265104225382440/Nike-Epic-React-Flyknit-Pearl-Pink-01.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Nikes",
+        "category": "Koşu Ayakkabısı",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quis erat vel risus accumsan dignissim ullamcorper quis ",
+        "star": "3.5",
+        "sizeOfPrice": [
+          { "id": 1, "size": 29, "price": 320 },
+          { "id": 2, "size": 30, "price": 360 },
+          { "id": 3, "size": 31, "price": 380 },
+          { "id": 4, "size": 32, "price": 400 },
+          { "id": 5, "size": 33, "price": 700 }
+        ],
+        "selectedPriceId": 1,
+        "piece": 1,
+        "color":"dark",
+        "imageUrl":"https://cdn.discordapp.com/attachments/897079486246445063/899265105605316648/NIKE-EPIC-REACT-FLYKNIT-BLUE-GLOWWHITE-PHOTO-BLUE-VOLT-GLOW-2-e1525801871490.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Kardeşler Kundura",
+        "category": "Kundura",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quis erat vel risus accumsan dignissim ullamcorper quis ",
+        "star": "5",
+        "sizeOfPrice": [
+          { "id": 1, "size": 29, "price": 150 },
+          { "id": 2, "size": 30, "price": 170 },
+          { "id": 3, "size": 31, "price": 180 },
+          { "id": 4, "size": 32, "price": 190 },
+          { "id": 5, "size": 33, "price": 200 }
+        ],
+        "selectedPriceId": 1,
+        "piece": 1,
+        "color":"black",
+        "imageUrl":"https://ktnimg.mncdn.com/mnresize/868/1140/product-images/1KAM20003AA999/1500Wx1969H/1KAM20003AA999_G01_zoom1_V01.jpg"
+  
+      },
+      {
+        "id": 4,
+        "title": "Pink Shoe ",
+        "category": "Women",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus quis erat vel risus accumsan dignissim ullamcorper quis ",
+        "star": "3.5",
+        "sizeOfPrice": [
+          { "id": 1, "size": 29, "price": 150 },
+          { "id": 2, "size": 30, "price": 170 },
+          { "id": 3, "size": 31, "price": 180 },
+          { "id": 4, "size": 32, "price": 190 },
+          { "id": 5, "size": 33, "price": 200 }
+        ],
+        "selectedPriceId": 1,
+        "piece": 1,
+        "color":"dark",
+        "imageUrl":"https://cdn.discordapp.com/attachments/897079486246445063/899265104225382440/Nike-Epic-React-Flyknit-Pearl-Pink-01.jpg"
+  
+      }
+    ],
+    "cart": [],
+    "selectOptions": [
+      { "value": 1, "text": "1" },
+      { "value": 2, "text": "2" },
+      { "value": 3, "text": "3" },
+      { "value": 4, "text": "4" },
+      { "value": 5, "text": "5" },
+      { "value": 6, "text": "6" },
+      { "value": 7, "text": "7" },
+      { "value": 8, "text": "8" },
+      { "value": 9, "text": "9" },
+      { "value": 10, "text": "10" }
+    ]
+  }
